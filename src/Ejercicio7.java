@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Ejercicio7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int pares = 0, rango1, rango2;
         int repetir =1;
         do {
+        int pares = 0, rango1, rango2;
             System.out.print("Ingrese num. inicial: ");
             rango1 = sc.nextInt();
             if (rango1 > 0) {

@@ -20,6 +20,8 @@ public class Ejercicio5 {
             }
             if (numero != 0) {
                 System.out.println("=" + suma);
+            }else {
+                System.out.println("- - - - - FIN DEL PROGRAMA - - - - -");
             }
         }
     }
